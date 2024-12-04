@@ -49,19 +49,21 @@ o 	Positive: 60% of messages. o 	Neutral: 30% of messages. o 	Negative: 10% of m
  
 5. Visualizations 
 5.1 Messages Over Time 
-  
+  ![image](https://github.com/user-attachments/assets/1ff3da5a-149d-4085-a7f7-17d94bfb5836)
+
+ 
 A bar chart showing the number of messages posted daily. 
 5.2 Word Cloud 
-  
+  ![image](https://github.com/user-attachments/assets/44d86094-290c-4122-9504-90e5ef555fe8)
+
 A word cloud highlighting the most frequent words. 
  
- ![image](https://github.com/user-attachments/assets/1ff3da5a-149d-4085-a7f7-17d94bfb5836)
-
  
  
  
 5.3 Sentiment Distribution 
-  
+  ![image](https://github.com/user-attachments/assets/366d78b0-25a1-4f9a-aa11-b2c65b2f9625)
+
 A bar chart showing the proportion of positive, neutral, and negative messages. 
   
 6. Conclusion 
